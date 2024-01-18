@@ -11,7 +11,7 @@ dependencyResolutionManagement {
 
             plugin("ktlint", "org.jlleitschuh.gradle.ktlint").version("11.6.1")
 
-            library("kotlinx-serialization-json", "org.jetbrains.kotlinx:kotlinx-serialization-json:1.5.0")
+            library("kotlinx-serialization-json", "org.jetbrains.kotlinx:kotlinx-serialization-json:1.6.2")
         }
     }
 }
