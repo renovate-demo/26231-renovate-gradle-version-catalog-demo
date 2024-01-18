@@ -9,7 +9,7 @@ dependencyResolutionManagement {
                 library("kotlin-reflect", "org.jetbrains.kotlin", "kotlin-reflect").versionRef(it)
             }
 
-            plugin("ktlint", "org.jlleitschuh.gradle.ktlint").version("11.6.1")
+            plugin("ktlint", "org.jlleitschuh.gradle.ktlint").version("12.1.0")
 
             library("kotlinx-serialization-json", "org.jetbrains.kotlinx:kotlinx-serialization-json:1.5.0")
         }
